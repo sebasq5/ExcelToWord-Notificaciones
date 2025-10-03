@@ -26,6 +26,10 @@ Ideal para generar **notificaciones personalizadas** en entornos académicos o a
 
 ---
 
+## 📂 Estructura del proyecto
+
+
+
 ---
 
 ## 📊 Ejemplo de Excel esperado
@@ -41,15 +45,14 @@ El archivo Excel debe contener columnas con encabezados como:
 El archivo `plantilla.docx` debe contener **marcadores** entre llaves dobles, por ejemplo:
 
 
+
+
+
 Durante la ejecución, estos marcadores se reemplazan automáticamente con los valores del Excel.
 
 ---
 
-## 📥 Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/sebasq5/ExcelToWord-Notificaciones.git
-   cd ExcelToWord-Notificaciones
 
-## 📂 Estructura del proyecto
+
+
 
